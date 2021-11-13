@@ -92,6 +92,7 @@
         android:layout_below="@+id/grbp"
         android:layout_centerInParent="true"
         android:layout_marginTop="10dp"
+        android:buttonTint="#961728"
         android:text="I agree with the terms and conditions" />
 
     <Button
